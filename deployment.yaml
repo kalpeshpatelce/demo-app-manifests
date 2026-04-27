@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: kalpeshpatelce/demo-app:2
+          image: kalpeshpatelce/demo-app:3
           ports:
             - containerPort: 3000
           env:
